@@ -5,7 +5,7 @@
 
 ### 介绍
 
-本项目基于Python 3.11.1构建，你需要在https://www.pushdeer.com获取提送key，pushdeer是一个免费的推送服务，支持Mac iOS Android
+本项目基于Python 3.11.1构建，你需要在 https://www.pushdeer.com 获取提送key，pushdeer是一个免费的推送服务，支持Mac iOS Android
 
 ### 开始
 
